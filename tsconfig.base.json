@@ -16,9 +16,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@fem-production-aangular/api-interfaces": [
-        "libs/api-interfaces/src/index.ts"
-      ]
+      "@fem/api-interfaces": ["libs/api-interfaces/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

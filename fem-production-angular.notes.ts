@@ -28,4 +28,8 @@ nx g c home -m app.module.ts --style=scss
 ctr+shift+A  ----> "import" // for sorting imports
              ----> "sort"   // for sorting highlighted alphabetical
 
+//***************Git******************
+git branch xxxxxx    // skapa branch
+git checkout xxxxxx // gå in i
 //*****************************************
+
